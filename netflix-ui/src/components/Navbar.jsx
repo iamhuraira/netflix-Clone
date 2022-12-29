@@ -57,7 +57,7 @@ export default function Navbar({ isScrolled }) {
 
 const Container = styled.div`
 .scrolled{
-    backlground-color: black;
+    background-color: black ;
 }
 nav{
     position: sticky; 
