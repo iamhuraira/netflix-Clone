@@ -1,1 +1,1 @@
-# netflix-Clone
+# Netflix Clone
