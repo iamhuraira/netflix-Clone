@@ -28,3 +28,10 @@ export const store = configureStore({
         netflix: NetlixSlice.reducer,
     }
 });
+
+// export const store = configureStore({
+//     reducer: {
+//         netflix: NetlixSlice.reducer,
+//     }
+// });
+
